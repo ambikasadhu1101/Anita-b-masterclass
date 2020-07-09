@@ -1,4 +1,4 @@
-# Anita-b-masterclass
+# Practice Questions
 #### Basic:
 
 1. Given a string, display only the characters present at even index in the string. <br/>
