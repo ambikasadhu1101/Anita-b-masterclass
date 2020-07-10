@@ -17,15 +17,15 @@ ii. print the square of each number    <br/>
 1 2 3 4 <br/>
 1 2 3 4 5 <br/>
 
-2. Taking a sentence as input, print the number of times a substring occurs in it. <br/>
-3. Predict the output <br/>
+2. Predict the output <br/>
 ```
 square = lambda x: x**2
 product = lambda f, n: lambda x: f(x)*n 
 ans = product(square, 2)(10) 
 print(ans) 
 ```
-
+<br/>
+3. Given a list of marks, print the marks that are greater than 75. <br/> 
 
 #### Medium:
 1. Print the nth Fibonacci number. <br/>
